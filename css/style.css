@@ -31,18 +31,19 @@ body {
 
 
 .social-media {
-    display: block;
-    padding-left: 160px;
-    height: 160px;
+    display: inline-grid;
+    text-align: center;
+    
     
 }
 
 .facebook {
     color: #3b5998;
+    
 }
 
 .instagram {
-    color:  Hex: #bc2a8d;
+    color:  #bc2a8d;
 }
 
 .pinterest {
