@@ -13,7 +13,10 @@ body {
     
 }
 
-
+.header {
+    padding-top: 50px;
+    
+}
 
 
 .row, .row2, .row3, .row4 {
