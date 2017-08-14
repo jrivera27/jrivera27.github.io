@@ -31,6 +31,7 @@ body {
 
 
 .social-media {
+    display: inline-block;
     padding-left: 160px;
     height: 160px;
     
