@@ -1,0 +1,44 @@
+html, h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Sedgwick Ave', cursive;
+}
+
+body {
+    
+    /** not sure about the background as of yet **/
+    
+    color: orangered;
+    background-color: black;
+    background-attachment: fixed;
+    
+    
+}
+
+
+
+
+.row, .row2, .row3, .row4 {
+    
+    margin-top: 25px;
+   
+}
+
+.caption p {
+    padding: 10px;
+    font-size: 20px;
+}
+
+
+
+
+.social-media {
+    padding-left: 160px;
+    height: 160px;
+    
+}
+
+
+
+.col-lg-12 iframe {
+    height: 600px;
+    border: 3px solid silver;
+}
